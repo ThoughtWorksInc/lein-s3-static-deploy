@@ -1,4 +1,4 @@
-(defproject s3-static-deploy "0.1.0"
+(defproject s3-static-deploy "0.1.0-SNAPSHOT"
   :description "Leiningen plugin to deploy static websites"
   :url "https://github.com/ThoughtWorksInc/lein-s3-static-deploy"
   :license {:name "Eclipse Public License"
