@@ -1,4 +1,4 @@
-# s3-static-deploy
+# lein-s3-static-deploy
 
 A Leiningen plugin to deploy a directory as a static website on s3.
 
@@ -13,9 +13,9 @@ This plugin was built to support the use case of creating a static Angular Cloju
 To use lein-s3-static-deploy, you'll need to add a few additional values to your project.clj file.
 
 First, add lein-s3-static-deploy as a plugin:
-Put `[s3-static-deploy "0.1.0"]` into the `:plugins` vector.
+Put `[lein-s3-static-deploy "0.1.0"]` into the `:plugins` vector.
 
-Put `[s3-static-deploy "0.1.0]` into the `:plugins` vector of your project.clj.
+Put `[lein-s3-static-deploy "0.1.0]` into the `:plugins` vector of your project.clj.
 
 You'll also need to give lein-s3-static-deploy a few instructions so it knows what to do.
 
