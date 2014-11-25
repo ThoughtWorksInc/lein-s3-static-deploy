@@ -8,4 +8,6 @@
                  [me.kanej/s3-sync "0.2.0"]
                  [org.clojure/java.data "0.1.1"]]
   :eval-in-leiningen true
-  :min-lein-version "2.0.0")
+  :min-lein-version "2.0.0"
+  :scm {:name "git"
+        :url "https://github.com/ThoughtWorksInc/lein-s3-static-deploy"})
