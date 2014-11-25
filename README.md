@@ -15,7 +15,7 @@ To use lein-s3-static-deploy, you'll need to add a few additional values to your
 First, add lein-s3-static-deploy as a plugin:
 Put `[lein-s3-static-deploy "0.1.0"]` into the `:plugins` vector.
 
-Put `[lein-s3-static-deploy "0.1.0]` into the `:plugins` vector of your project.clj.
+Put `[lein-s3-static-deploy "0.1.0"]` into the `:plugins` vector of your project.clj.
 
 You'll also need to give lein-s3-static-deploy a few instructions so it knows what to do.
 
@@ -46,7 +46,7 @@ This plugin is very simple and supports our narrow use case.  We would welcome c
 
 ## License
 
-Copyright © 201 4Thoughtworks Inc
+Copyright © 2014 Thoughtworks Inc
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
